@@ -1,0 +1,21 @@
+.contacts-top {
+    border-bottom: 1px solid #ccc;
+    padding: 0 0 20px;
+    margin: 0 0 20px;
+}
+.contacts-top h1{
+    float: left;
+    margin: 0;
+}
+.contacts-top .btn {
+    float: right;
+    text-decoration: none;
+    line-height: 1;
+    display: inline-block;
+}
+.contacts-block{
+    margin: 0 0 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
